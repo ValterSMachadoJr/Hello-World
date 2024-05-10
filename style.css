@@ -1,0 +1,29 @@
+body {
+    background-color: #305050;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header {
+    border-bottom: 1px solid grey;
+}
+
+
+h2 {
+    color: orange;
+}
+
+#nome-usuário {
+    font-weight: bold;
+}
+
+.texto-ingles{
+    font-style: italic;
+}
+
+
+
+footer {
+    border-top: 1px solid grey;
+}
